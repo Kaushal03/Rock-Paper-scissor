@@ -5,6 +5,9 @@ I hope everyone enjoys this fantastic and cool game, which is called Rock, Paper
 In order to play this game, you must install the "TKINTER" module by using the command prompt.
 
 ### Package to be installed
-pip install tkintertable 
+<ol>
+<li><b>OpenCV:</b> Install using the following command:</li>
+<pre><code>pip install tkintertable</code></pre>
+</ol>
 
 Please contact me if you have any questions about it.
